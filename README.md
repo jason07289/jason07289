@@ -1,5 +1,5 @@
 ### Hi there 👋
-- ⚡ I’m currently learning __Java__, __Spring__, __Cloud__
+- ⚡ I’m currently learning __Java__, __Spring__, __Cloud Service__
 
 
 ### Skills
