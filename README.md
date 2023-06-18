@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 
 - ⚡ I’m currently learning __Java__, __Spring__, __Cloud Service__
 
 
